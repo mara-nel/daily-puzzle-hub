@@ -1,3 +1,6 @@
+# daily-puzzle-hub
+A place to keep track of all the daily puzzle games you've suddenly become interested in
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
